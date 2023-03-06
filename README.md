@@ -10,6 +10,8 @@
 
 ![result](images/TreatNet.png)
 
+accuracy: 89.49%
+
 <br><br>
 
 ## Implement FGSM
